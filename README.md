@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster - Top 7%
+# Titanic - Machine Learning from Disaster - Top 5%
 
 This repository contains the notebook which I used to attend the related Kaggle competition. The objective is to predict the number of the survivors.
 
@@ -18,6 +18,6 @@ The models I used are presented below:
 For the tuning of the previous models, I used both RandomSearchCV,GridSearchCV (from sklearn) and Optuna.
 
 ## Results
-The best result was obtained using RandomForestClassifier() -  Top 7%
+The best result was obtained using RandomForestClassifier() -  Top 5%
 
 **A detailed article that contains the insights and the explanations of the strategy used can be found on my Medium page: [Link Medium Page - To be updated]**
